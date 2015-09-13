@@ -1,0 +1,114 @@
+#aaa{
+	border: 5px outset green;
+	height:200px;
+    width:200px;
+
+}
+/*=======================================*/
+.zahraa{
+	color:red ;
+	font-size: 17px;
+	border:8px outset pink;
+	background-color:pink;
+
+}
+/*=======================================*/
+
+#bbb{
+	border: 5px outset red;
+	height:200px;
+	width:200px;
+}
+/*=======================================*/
+
+#ccc{
+	border: 5px outset orange;
+	height:190px;
+	width:185px;
+}
+/*=======================================*/
+
+input{
+	width: 250px;
+	height: 30px;
+	border: 3px solid green;
+	color: red;
+}
+/*=======================================*/
+
+.qqq{
+	color:red ;
+	font-size: 17px;
+	border:8px outset pink;
+	background-color: pink;
+    }
+/*=======================================*/
+
+h1{
+	color:darkred;
+  }
+/*=======================================*/
+
+.sara{
+	height:190px;
+	width:150px;
+	border: 5px outset red;
+	margin: 30px;	
+     }
+/*=======================================*/
+
+#fff{
+	border: 5px outset orange;
+	height: 200px;
+	width: 200px;
+}
+/*=======================================*/
+
+.yyy{
+	border: 5px outset red;
+	height:190px;
+	width:170px;
+	margin: 30px;	
+    }
+/*=======================================*/
+
+b{
+	color: red;
+ }
+/*=======================================*/
+
+.ooo{
+     border: 5px outset pink;
+	 height:190px;
+	 width:170px;
+	 margin: 30px;	
+    }
+/*=======================================*/
+
+#ddd{
+     color: hotpink;
+	}
+/*=======================================*/
+
+.www{
+     border: 5px outset red;
+	 height:190px;
+	 width:170px;
+	 margin: 30px;	
+
+     }
+/*=======================================*/
+
+.vvv{
+	border: 7px outset pink;
+	height:190px;
+	width:170px;
+	margin: 30px;	
+	}
+/*=======================================*/
+
+	img{
+		display: inline;
+	}
+/*=======================================*/
+	
